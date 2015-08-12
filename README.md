@@ -1,5 +1,5 @@
-# security-resources
-Rough list of available resources online to contribute to a larger repo. Some are CC-licensed or opensource, some are guides or apps sold on other platforms, etc. List will be curated at a later date.
+# Security Resources
+A list of available resources online to build into a more accessible repo (possibly on adv.m.o). Some are CC-licensed or opensource, some are guides or apps sold on other platforms, etc. List will be curated at a later date.
 
 ###Comparison lists / repos for general online security 
 * [Secure Messaging Comparison](https://www.eff.org/secure-messaging-scorecard) (EFF)- Comparison list of various messaging platforms/services.
