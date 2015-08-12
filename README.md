@@ -33,7 +33,7 @@ A list of available resources online to build into a more accessible repo (possi
 * [Veracrypt] (https://veracrypt.codeplex.com/) (Idrix) - Harddrive encryption for those with Windows versions that don't support BitLocker.
 
 ###Mac OS X
-* [FileVault] (http://computers.tutsplus.com/tutorials/how-to-set-up-and-use-filevault-2--mac-45442) (tuts+) - Guide to setting up FileVault 2 for harddrive encryption.
+* [FileVault] (http://computers.tutsplus.com/tutorials/how-to-set-up-and-use-filevault-2--mac-45442) (tuts+) - Guide to setting up FileVault 2 for hard drive encryption.
 
 ###Android
 * [Phone Encryption] (http://www.networkworld.com/article/2689371/opensource-subnet/how-to-encrypt-an-android-device-in-5-steps.html) (Network World) - Guide to encrypt an Android device.
