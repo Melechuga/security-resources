@@ -1,5 +1,5 @@
 # Security Resources
-A list of available resources online to build into a more accessible repo (possibly on adv.m.o). Some are CC-licensed or opensource, some are guides or apps sold on other platforms, etc. List will be curated at a later date.
+A list of available resources online to build into a more accessible repo (possibly on adv.m.o). Some are CC-licensed or opensource, some are guides or apps sold on other platforms, etc. List will be curated at a later date ([contribute to this list](#how-do-i-contribute-to-this-list)).
 
 ##Table of Contents
 1. [Lists and repos for general online security](#lists-and-repos-for-general-online-security)
@@ -13,7 +13,6 @@ A list of available resources online to build into a more accessible repo (possi
 9. [Social Media and Chatting Tools](#social-media-and-chatting-tools)
 10. [Tools Specifically for Journalists](#specifically-for-journalists)
 11. [Meet-ups and Other Educational Resources](#meet-ups-and-other-educational-resources)
-12. [How to contribute to this list](#how-do-i-contribute-to-this-list)
 
 ###Lists and repos for general online security 
 * [Secure Messaging Comparison](https://www.eff.org/secure-messaging-scorecard) (EFF)- Comparison list of various messaging platforms/services.
@@ -79,7 +78,7 @@ A list of available resources online to build into a more accessible repo (possi
 * [Digital Security for the Arab World] (https://www.youtube.com/playlist?list=PL1jRTDEqmwlC6NP6LgEyPVXYsm7bhT_ni) (CyberArabs) - YouTube channel with animated shorts on digital security topics in Arabic. 
 
 
-## How do I contribute to to this list?
+##How do I contribute to this list?
 Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
  * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
