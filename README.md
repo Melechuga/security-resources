@@ -69,3 +69,7 @@ A list of available resources online to build into a more accessible repo (possi
 * [Digital Security for the Arab World] (https://www.youtube.com/playlist?list=PL1jRTDEqmwlC6NP6LgEyPVXYsm7bhT_ni) (CyberArabs) - YouTube channel with animated shorts on digital security topics in Arabic. 
 
 
+## How do I contribute to to this list?
+Have an idea of a tool that should be on this list? Here's how you can add it:
+ * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
+ * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
