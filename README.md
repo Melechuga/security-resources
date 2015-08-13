@@ -22,6 +22,7 @@ A list of available resources online to build into a more accessible repo (possi
 * [Security in a Box](https://securityinabox.org/en) (Tactical Technology Collective + Front Line Defenders) - List of digital security tools and tactics for activists and human rights defenders around the world.
 * [Online Survival Kit](http://www.wefightcensorship.org/online-survival-kithtml.html) (We Fight Censorship) - Toolkit for circumventing censorship, and securing communications and data.
 * [Privacy Teaching Kit](https://stacy.makes.org/thimble/OTI5Njk0MjA4/privacy-teaching-kit) (Stacy Martin, Mozilla) - Toolkit for teaching privacy techniques and tools to young adults.
+* [What's Wrong With Your Password? Teaching Kit](https://stacy.makes.org/thimble/MjAxMjIxNzYwMA==/whats-wrong-with-your-password) (Stacy Martin, Mozilla) - Lesson plan for teaching how to use smart passwords.
 
 ###Google Tools
 * [Chrome Password Alert] (https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) - Chrome extension to create a password alert when it changes.
