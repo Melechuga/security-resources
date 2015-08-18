@@ -57,7 +57,7 @@ A list of available resources online to build into a more accessible repo (possi
 * [Tor] (https://www.torproject.org/) - Free software and an open network that allows you to access the Internet without leaving a digital trace. 
 
 ###Password Managers
-* [LastPass[ (https://lastpass.com/) - Cross-platform password manager and generator.
+* [LastPass] (https://lastpass.com/) - Cross-platform password manager and generator.
 * [1Password] (https://agilebits.com/onepassword) (AgileBits) - Extension to manage passwords across platforms/devices.
 
 ###Social Media and Chatting Tools
